@@ -2,7 +2,7 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 import numpy as np
-
+#this is just added
 x = ['Car', 'Goat']
 # out of 3 doors, there is only 1 Car and 2 Goats
 probability =[1/3, 2/3]
