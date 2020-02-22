@@ -2,11 +2,10 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 import numpy as np
-#this is just added
+
 x = ['Car', 'Goat']
 # out of 3 doors, there is only 1 Car and 2 Goats
-#edit on repo
-#edit number 2 on the repo
+
 probability =[1/3, 2/3]
 
 # Strategi 1: Not change your chosen door when Monty asks you to
