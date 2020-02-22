@@ -5,6 +5,7 @@ import numpy as np
 #this is just added
 x = ['Car', 'Goat']
 # out of 3 doors, there is only 1 Car and 2 Goats
+#edit on repo
 probability =[1/3, 2/3]
 
 # Strategi 1: Not change your chosen door when Monty asks you to
